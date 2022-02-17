@@ -1,2 +1,5 @@
-1) name : Alex
+1) name/surname : Alex Ros
 2) age : 35
+3) home animals : nill
+4) sellery : 1000$
+
