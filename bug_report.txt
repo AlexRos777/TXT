@@ -8,12 +8,11 @@ Payment for the selected product not accepted by using MasterCard.
 3. Add product to the cart
 4. Choose your payment method
 
-
 # What's the expected result?
 - Payment approved, purchase completed
 
 # What's the actual result?
 - Payment by MasterCard does not accept by payment system 
 
-# Additional details
+# Additional details.
 - All other payment methods is accepted by payment system
