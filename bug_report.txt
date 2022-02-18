@@ -15,4 +15,4 @@ Payment for the selected product not accepted by using MasterCard.
 - Payment by MasterCard does not accept by payment system 
 
 # Additional details.
-- All other payment methods is accepted by payment system
+- All other payment methods is accepted by payment system.
