@@ -1,10 +1,14 @@
-1)gitbush
-2)codes http
-3)cod json
-4)xml
-5)postman
-6)api testing
-7)devtools
-8)self learning
-9)search in google
-10)teamwork
+Hard skills
+
+1)Gitbash
+2)Codes Http
+3)Structure Json
+4)Structure Xml
+5)Postman
+6)Devtools
+
+Soft skills
+
+1)Self learning
+2)Search in google
+3)Teamwork
