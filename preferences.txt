@@ -1,5 +1,6 @@
-1)Favorit film : Forrest Gump
-2)Favorit series : Black list
-3)Favorit food : Sushi
-4)Favorit season : Summer
+1)Favorit film :Forrest Gump
+2)Favorit series :Black list
+3)Favorit food :Sushi
+4)Favorit season :Summer
 5)Country for visit : Japan
+
